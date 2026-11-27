@@ -1,0 +1,1 @@
+ if (arr[i]<mn)  mn = arr[i];
