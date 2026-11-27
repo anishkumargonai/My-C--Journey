@@ -12,7 +12,7 @@ public:
             
         }
     }
-    return ans;
+    return ans;  // TC is O(n^2)
     }
     
 };
